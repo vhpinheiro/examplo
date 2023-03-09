@@ -1,1 +1,2 @@
 alguma query
+outra linha
